@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafzism" alt="hafzism" /></a> </p>
 
-- 🔭 I'm currently working on **A nestJS project**
+- 🔭 I'm currently working on **Collability**
 
-- 🌱 I'm currently learning **Angular and NestJS**
+- 🌱 I'm currently learning **NestJS and SQL**
 
 - 📫 How to reach me **thehafzism@gmail.com**
 
