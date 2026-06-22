@@ -1,61 +1,21 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=8b949e&center=false&vCenter=true&width=435&lines=hafeez%40dev+~+%24+whoami" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=656d76&center=false&vCenter=true&width=435&lines=hafeez%40dev+~+%24+whoami" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=8b949e&center=false&vCenter=true&width=435&lines=hafeez%40dev+~+%24+whoami" />
-</picture>
+### hi, i'm hafeez
 
-<table>
-<tr>
-<td valign="top">
+i build things and put them on the internet.
 
-```
-                                      
-          :+X;                 
-     $&&&$   X&&               
-  .   +  &     $+;x            
-                   : +           
- :         &&&&x  +            
-       .+&&&&&&&&  +&$         
-  :   ;   .&X   $              
-   :  :     &   &;&x           
-    : ;&&&&&&&&&&X&            
-        :&    &&&&&            
-           X&& ..              
-             &  &              
-       :      &&+              
-       ..  ;&&&&&&&            
-        +:;   :&.  &&&&&       
-  +Xx;    X&&&&   ;:  ;x&&&    
- ::  ::;.; $ ;     + &  X :;&$  
-    : x  X: +  &  X. $ X $&.  + :&  
-  : X  & $: & X  x &  : ;. :+x    ;x
-```
+mostly backend systems — auth flows, real-time infrastructure, 
+background job queues, deployment pipelines. but i own the 
+whole stack when needed.
 
-</td>
-<td valign="top">
+not attached to any one stack. the problem picks the tools.
 
-```
-hafeez@dev
-──────────────────────────────────
-role ....... full stack developer
-location ... kerala, india
-stack ...... typescript · nestjs · next.js
-databases .. postgresql · mongodb
-infra ...... docker · nginx · aws ec2
-──────────────────────────────────
-ships ...... collability.hafzism.in
-           . hayon.site
-──────────────────────────────────
-currently .. open to sde roles
-hobbies .... reading · travel
-──────────────────────────────────
-site ....... hafzism.in
-linkedin ... linkedin.com/in/hafzism
-mail ....... thehafzism@gmail.com
-```
+---
 
-</td>
-</tr>
-</table>
+when i'm not at the keyboard, i'm reading or somewhere new.
+both teach you to figure things out with what's in front of you.
 
-projects are pinned below. everything runs in production.
+---
+
+currently open to software engineering roles — full stack, backend, 
+or wherever the work is interesting.
+
+[hafzism.in](https://hafzism.in) · [linkedin](https://linkedin.com/in/hafzism) · [mail](mailto:thehafzism@gmail.com)
